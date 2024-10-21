@@ -58,7 +58,7 @@ const typed = new Typed('.multiple-text',{
   strings: ['Full-Stack Web developer'],
   typeSpeed: 70,
   backSpeed: 70,
-  backDelay: 800,
+  backDelay: 1200,
   loop: true,
 })
 
